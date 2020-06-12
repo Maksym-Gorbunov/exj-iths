@@ -11,12 +11,12 @@
 
 
 # Result	
-![](img/1.gif)
-![](img/2.gif)
-![](img/3.gif)
-![](img/4.gif)
-![](img/5.gif)
-![](img/6.gif)
-![](img/7.gif)
-![](img/8.gif)
+![](img/1.png)
+![](img/2.png)
+![](img/3.png)
+![](img/4.png)
+![](img/5.png)
+![](img/6.png)
+![](img/7.png)
+![](img/8.png)
 
