@@ -1,8 +1,9 @@
 # Examenarbete ITHS 
+@author: Maksym Gorbunov
 
 * Java 8, Maven
-* MySql
-* Rest API, JPA, RestTemplate
+* MySql, JPA
+* Rest API, RestTemplate
 * Lombok, ModelMapper 
 
 * VueJs
