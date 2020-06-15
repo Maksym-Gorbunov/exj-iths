@@ -1,13 +1,13 @@
 com/mg/covid19/model/model/CountryModel.class
 com/mg/covid19/model/entity/Code.class
-com/mg/covid19/service/ICodeService.class
 com/mg/covid19/model/object/ProvinceObj.class
+com/mg/covid19/service/ICodeService.class
 com/mg/covid19/service/implementation/StatisticService.class
 com/mg/covid19/service/IProvinceService.class
 com/mg/covid19/service/IStatisticService.class
 com/mg/covid19/rest/api/ApiDefaultController$6.class
-com/mg/covid19/model/entity/Location.class
 com/mg/covid19/model/object/CountryObj.class
+com/mg/covid19/model/entity/Location.class
 com/mg/covid19/rest/api/ApiDefaultController.class
 com/mg/covid19/model/model/LocationModel.class
 com/mg/covid19/rest/api/ApiController$2.class
@@ -17,8 +17,8 @@ com/mg/covid19/service/implementation/LocationService.class
 com/mg/covid19/config/exception/exc/EmptyResultDataAccessException.class
 com/mg/covid19/Application.class
 com/mg/covid19/rest/covid19/CodeController.class
-com/mg/covid19/config/exception/exc/ResourceCreationException.class
 com/mg/covid19/service/implementation/CountryService.class
+com/mg/covid19/config/exception/exc/ResourceCreationException.class
 com/mg/covid19/rest/covid19/StatisticController.class
 com/mg/covid19/rest/api/ApiController$1.class
 com/mg/covid19/repository/CodeRepository.class
@@ -40,8 +40,8 @@ com/mg/covid19/service/implementation/ProvinceService.class
 com/mg/covid19/rest/covid19/ProvinceController.class
 com/mg/covid19/rest/api/ApiDefaultController$1.class
 com/mg/covid19/config/exception/RestExceptionHandler.class
-com/mg/covid19/config/CorsFix.class
 com/mg/covid19/repository/StatisticRepository.class
+com/mg/covid19/config/CorsFix.class
 com/mg/covid19/service/ILocationService.class
 com/mg/covid19/model/model/StatisticModel.class
 com/mg/covid19/repository/LocationRepository.class
@@ -50,5 +50,5 @@ com/mg/covid19/config/Config.class
 com/mg/covid19/rest/api/ApiDefaultController$5.class
 com/mg/covid19/model/entity/Statistic.class
 com/mg/covid19/service/implementation/CodeService.class
-com/mg/covid19/rest/api/ApiController.class
 com/mg/covid19/rest/api/ApiDefaultController$2.class
+com/mg/covid19/rest/api/ApiController.class
